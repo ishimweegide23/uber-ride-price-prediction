@@ -10,8 +10,9 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 
 **Course:** Introduction to Big Data Analytics (INSY 8413)  
 **Instructor:** Eric Maniraguha | [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw) | [LinkedIn Profile](https://linkedin.com/in/eric-maniraguha)  
-**Student:** Ishimwe Egîdë – AUCA  
-**Assignment:** - Groups A
+**👤 Student Name:** Ishimwe Egîdë  
+**🆔 Student ID:** 26661  
+**👨‍💻 Group:** A 
 
 ---
 
@@ -107,7 +108,8 @@ except Exception as e:
 
 ![Data Loading Process](<img width="1280" height="600" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/348f26e1-2414-48fb-80cb-b2ef5a956c0f" />)
 
-<img width="1280" height="600" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/348f26e1-2414-48fb-80cb-b2ef5a956c0f" />
+<img width="1280" height="557" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/51c7898e-7a1a-4e02-8d8a-74d1207e80b0" />
+
 
 
 #### **Step 2: Data Understanding and Quality Assessment**
@@ -135,9 +137,15 @@ print("✅ Summary Statistics:")
 display(stats[['mean', 'median', 'mode', 'std', 'min', '25%', '50%', '75%', 'max']])
 ```
 
+<img width="1240" height="554" alt="summary of statistics" src="https://github.com/user-attachments/assets/78a65b27-7c72-4e2c-a110-438c4332723b" />
+
+
 #### **Step 3: Data Cleaning and Preprocessing**
 
 ![Data Cleaning Steps](screenshots/data_cleaning_steps.png)
+
+<img width="1168" height="153" alt="save and clean" src="https://github.com/user-attachments/assets/14b6fc94-b515-491d-8595-64b21bf36df1" />
+
 
 ```python
 # Handle missing values
@@ -329,10 +337,7 @@ Peak hours (7-9 AM, 5-7 PM) show 35% higher average fares compared to off-peak p
 - **Airport Routes:** 18% of trips involve airport pickup/dropoff
 - **Suburban Distribution:** 10% scattered across outer areas
 
-#### **Economic Patterns:**
-- **Price Sensitivity:** Demand elasticity coefficient of -0.68
-- **Premium Tolerance:** Evening rides show highest fare acceptance
-- **Distance Economics:** Longer trips (>10km) maintain premium pricing
+
 
 ---
 
@@ -356,9 +361,6 @@ This comprehensive analysis of the Uber ride dataset reveals five fundamental in
 
 These patterns directly translate to operational efficiency improvements and revenue optimization opportunities. The predictable nature of demand enables transition from reactive to proactive resource management, while clear pricing relationships support evidence-based fare structures.
 
-### Strategic Implications
-
-The analysis supports data-driven approaches to market positioning, operational planning, and pricing strategy. Strong correlations between temporal patterns and revenue generation validate current business models while identifying specific optimization opportunities.
 
 ---
 
@@ -386,9 +388,6 @@ The analysis supports data-driven approaches to market positioning, operational 
 - Launch targeted marketing campaigns during peak seasonal periods
 - Adjust driver incentives to match seasonal demand patterns
 
-**Expected Impact:** 12-18% increase in seasonal revenue without significant demand reduction
-**Implementation Timeline:** Next seasonal transition
-**Success Metrics:** Seasonal revenue per ride, demand elasticity tracking
 
 #### **Recommendation 3: Enhanced Dynamic Pricing Algorithm**
 **Data Foundation:** Peak hours generate 35% fare premiums with maintained demand
@@ -405,14 +404,6 @@ The analysis supports data-driven approaches to market positioning, operational 
 #### **Recommendation 4: Geographic Market Intensification**
 **Data Foundation:** 72% of rides originate from metropolitan areas
 
-**Strategic Actions:**
-- Establish micro-distribution centers in top 10 demand density zones
-- Reduce low-density area coverage by 25% while increasing urban driver concentration
-- Implement zone-based performance bonuses for high-activity areas
-
-**Expected Impact:** 30% improvement in urban service quality, 20% increase in driver efficiency
-**Implementation Timeline:** 8-12 months
-**Success Metrics:** Service quality scores, urban market share
 
 #### **Recommendation 5: Fleet Composition Optimization**
 **Data Foundation:** 68% single-passenger trips, only 15% carry 3+ passengers
@@ -429,14 +420,6 @@ The analysis supports data-driven approaches to market positioning, operational 
 #### **Recommendation 6: Weekend Service Differentiation**
 **Data Foundation:** Weekend demand peaks shift 2-3 hours later than weekdays
 
-**Strategic Actions:**
-- Adjust weekend driver schedules to align with delayed peak patterns
-- Implement weekend-specific pricing tiers and promotional campaigns
-- Launch leisure-focused marketing for weekend usage growth
-
-**Expected Impact:** 15-25% increase in weekend trip volume
-**Implementation Timeline:** 2-3 months
-**Success Metrics:** Weekend ride volume, customer acquisition
 
 ---
 
@@ -568,83 +551,7 @@ CALCULATE(
 
 ---
 
-## 8. 📋 Assignment Deliverables
 
-### Submission Requirements Compliance
 
-#### ✅ **1. Power BI Dashboard File (.pbix)**
-- **File Location:** [powerbi/UberDashboard.pbix](powerbi/UberDashboard.pbix)
-- **Features:** Interactive dashboard with all required visualizations
-- **Design:** Professional formatting and user-friendly interface
-- **Functionality:** Filters, drill-down capabilities, responsive design
-
-#### ✅ **2. GitHub Repository (Public Access)**
-- **Repository URL:** [https://github.com/ishimweegide23/uber-ride-price-prediction](https://github.com/ishimweegide23/uber-ride-price-prediction)
-- **Access Level:** Public repository with full documentation
-- **Structure:** Organized folder hierarchy with clear navigation
-
-**Repository Contents:**
-- ✅ **Cleaned Datasets:** Original and processed CSV files
-- ✅ **Analysis Screenshots:** Complete documentation of process steps
-- ✅ **README File:** Comprehensive project documentation (this file)
-- ✅ **Jupyter Notebook:** Complete analysis workflow
-
-#### ✅ **3. Documentation Screenshots**
-
-**Screenshot Portfolio:**
-- 📸 **Data Loading Process:** [screenshots/data_loading_process.png](screenshots/data_loading_process.png)
-- 📸 **Data Cleaning Steps:** [screenshots/data_cleaning_steps.png](screenshots/data_cleaning_steps.png)  
-- 📸 **DAX Formulas:** [screenshots/dax_formulas.png](screenshots/dax_formulas.png)
-- 📸 **Dashboard Development:** [screenshots/dashboard_development.png](screenshots/dashboard_development.png)
-
-#### ✅ **4. Final Report (GitHub Markdown Format)**
-- **Format:** Comprehensive GitHub report (this README.md file)
-- **Structure:** All required sections with detailed analysis
-- **Content:** Dataset description, methodology, insights, and outcomes
-
-### Academic Integrity Statement
-
-This project represents original analytical work and innovation in applying big data analytics techniques to real-world ride-sharing data. All insights, methodologies, and visualizations have been developed independently, with unique analytical approaches that distinguish this work from standard template analyses.
-
-**Unique Contributions:**
-- Custom DAX formulas for advanced time-based calculations
-- Novel seasonal analysis framework with business impact quantification
-- Comprehensive correlation analysis with statistical significance testing
-- Interactive dashboard design with multi-level drill-down capabilities
-- Actionable business recommendations with measurable success metrics
-
-### Success Criteria Met
-
-- ✅ **Early Start:** Project initiated well before deadline for thorough analysis
-- ✅ **Process Documentation:** Clear screenshots documenting each development stage
-- ✅ **Business Focus:** All insights tied to actionable business implications
-- ✅ **Compelling Story:** Dashboard presents coherent narrative of ride-sharing patterns
-- ✅ **Interactive Testing:** All dashboard elements tested for functionality and user experience
-
----
-
-## 📞 Contact Information
-
-**Student:** Ishimwe Egîdë  
-**Institution:** African University College of Agriculture (AUCA)  
-**Course:** INSY 8413 - Introduction to Big Data Analytics  
-**Instructor:** Eric Maniraguha  
-**Email:** [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)  
-**GitHub:** [ishimweegide23](https://github.com/ishimweegide23)  
-**Project Repository:** [uber-ride-price-prediction](https://github.com/ishimweegide23/uber-ride-price-prediction)
-
----
-
-## 🙏 Acknowledgments
-
-- **Eric Maniraguha** - Course Instructor and Project Supervisor
-- **AUCA** - African University College of Agriculture
-- **Kaggle Community** - For providing the comprehensive Uber dataset
-- **Power BI Community** - For DAX formula development resources
-
----
-
-**Assignment Completion Date:** Friday, 25 July 2025  
-**Submission Method:** GitHub Repository Link via Email  
 
 ⭐ **This project demonstrates the application of big data analytics principles to derive actionable business insights from real-world transportation data, fulfilling all INSY 8413 assignment requirements.**
