@@ -107,7 +107,7 @@ except Exception as e:
 
 ![Data Loading Process](<img width="1280" height="600" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/348f26e1-2414-48fb-80cb-b2ef5a956c0f" />)
 
-
+<img width="1280" height="600" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/348f26e1-2414-48fb-80cb-b2ef5a956c0f" />
 
 
 #### **Step 2: Data Understanding and Quality Assessment**
