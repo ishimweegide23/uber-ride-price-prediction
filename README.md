@@ -10,9 +10,18 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 **Course:** Introduction to Big Data Analytics (INSY 8413)  
 **Instructor:** Eric Maniraguha | [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw) | [LinkedIn Profile](https://linkedin.com/in/eric-maniraguha)  
 **Student:** Ishimwe Egîdë – AUCA  
-**Assignment:** Assignment I - Groups A, B & E  
-**Submission Date:** Friday, 25 July 2025, 5:00 PM  
-**Tool:** Power BI Desktop  
+**Assignment:** - Groups A
+
+**Technical Implementation:** 
+#### Technical Stack
+
+| Category       | Tools/Libraries Used           |
+|----------------|---------------------------------|
+| Data Processing| Pandas, NumPy                  |
+| Visualization  | Matplotlib, Seaborn, Power BI  |
+| Geospatial     | Geopy                          |
+| Version Control| Git, GitHub                    |
+| Documentation  | Markdown, Jupyter Notebook     |
 
 ---
 
