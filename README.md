@@ -1,6 +1,7 @@
 # 🚖 Uber Ride Price Prediction using Python & Power BI
 
 Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
+---
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow.svg)](https://powerbi.microsoft.com)
@@ -11,7 +12,7 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 **Instructor:** Eric Maniraguha | [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw) | [LinkedIn Profile](https://linkedin.com/in/eric-maniraguha)  
 **Student:** Ishimwe Egîdë – AUCA  
 **Assignment:** - Groups A
-
+---
 **Technical Implementation:** 
 #### Technical Stack
 
@@ -25,31 +26,15 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 
 ---
 
-## 📂 Project Structure
 
-```
-uber-ride-price-prediction/
-├── 📊 powerbi/
-│   └── UberDashboard.pbix
-├── 📓 dataset/
-│   ├── UBER RIDE PRICE PREDICTION.csv (original)
-│   └── uber_cleaned.csv (processed)
-├── 📘 jupyter/
-│   └── uber_cleaning_analysis.ipynb
-├── 📸 screenshots/
-│   ├── data_loading_process.png
-│   ├── data_cleaning_steps.png
-│   ├── dashboard_development.png
-│   └── dax_formulas.png
-├── 📋 README.md
-└── 📄 requirements.txt
+
 ```
 
 ## 🔗 Quick Links
 
-* 📊 **Power BI Report File:** [powerbi/UberDashboard.pbix](powerbi/UberDashboard.pbix)
-* 📓 **Cleaned Data:** [dataset/uber_cleaned.csv](dataset/uber_cleaned.csv)
-* 📘 **Notebook:** [jupyter/uber_cleaning_analysis.ipynb](jupyter/uber_cleaning_analysis.ipynb)
+* 📊 **Power BI Report File:** [powerbi/kwibuka power bi assignment 2.pbix](powerbi/kwibuka power bi assignment 2.pbix)
+* 📓 **Cleaned Data:** [dataset/enhanced_uber_fare_data.csv](dataset/enhanced_uber_fare_data.csv)
+* 📘 **Notebook:** [jupyter/UBER RIDE PRICE PREDICTION.csv](jupyter/uuber_with_trip_distance.csv)
 * 🌐 **GitHub Repo:** [https://github.com/ishimweegide23/uber-ride-price-prediction](https://github.com/ishimweegide23/uber-ride-price-prediction)
 * 📊 **Dataset Source:** [Kaggle - Uber Ride Price Prediction](https://www.kaggle.com/datasets/kushsheth/uber-ride-price-prediction)
 
@@ -64,7 +49,7 @@ uber-ride-price-prediction/
 5. [Conclusion](#5-conclusion)
 6. [Recommendations](#6-recommendations)
 7. [Technical Implementation](#7-technical-implementation)
-8. [Assignment Deliverables](#8-assignment-deliverables)
+
 
 ---
 
@@ -73,8 +58,8 @@ uber-ride-price-prediction/
 ### Project Overview
 This comprehensive data analysis project examines the Uber Ride Price Prediction dataset from Kaggle to uncover patterns in fare structures, ride durations, and operational metrics. Using Python for data preprocessing and Power BI for interactive visualization, this analysis provides actionable insights for ride-sharing business optimization.
 
-### Assignment Objectives
-Following the INSY 8413 assignment requirements, this project aims to:
+### 🎯 Objectives
+ this project aims to:
 
 - **Data Understanding:** Comprehensive EDA of the Uber Fares Dataset structure and quality
 - **Data Preparation:** Clean and enhance the dataset for analytical purposes
@@ -118,7 +103,10 @@ except Exception as e:
     print(f"❌ Error loading data: {e}")
 ```
 
-![Data Loading Process](screenshots/data_loading_process.png)
+![Data Loading Process](<img width="1280" height="600" alt="load data and 5 rows" src="https://github.com/user-attachments/assets/348f26e1-2414-48fb-80cb-b2ef5a956c0f" />)
+
+
+
 
 #### **Step 2: Data Understanding and Quality Assessment**
 
