@@ -427,7 +427,10 @@ These patterns directly translate to operational efficiency improvements and rev
 
 ### Power BI Dashboard Development
 
-![Dashboard Development Process](screenshots/dashboard_development.png)
+### Dashboard Development Process
+
+![uber rides data analysis dashboard ](https://github.com/user-attachments/assets/2045b532-03a8-4ee9-aabe-1419ad9b2d50)
+
 
 #### **Step 5: Power BI Data Import and Modeling**
 
@@ -447,7 +450,8 @@ These patterns directly translate to operational efficiency improvements and rev
 
 Here are the key DAX formulas used in Power BI for calculated columns and measures:
 
-![DAX Formulas Implementation](screenshots/dax_formulas.png)
+### DAX Formulas Implementation
+
 
 #### **1. Season Column**
 ```dax
