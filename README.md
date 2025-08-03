@@ -8,7 +8,7 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-orange.svg)](https://www.kaggle.com/datasets/kushsheth/uber-ride-price-prediction)
 
 
-**Course:** Introduction to Big Data Analytics (INSY 8413)  
+**Course:** Introduction to Big Data Analytics (INSY 8413)   
 **Instructor:** Eric Maniraguha | [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw) | [LinkedIn Profile](https://linkedin.com/in/eric-maniraguha)  
 **👤 Student Name:** Ishimwe Egîdë  
 **🆔 Student ID:** 26661  
