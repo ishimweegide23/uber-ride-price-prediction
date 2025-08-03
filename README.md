@@ -14,7 +14,7 @@ Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 **🆔 Student ID:** 26661  
 **👨‍💻 Group:** A 
 
----
+--- 
 
 **Technical Implementation:** 
 #### Technical Stack
