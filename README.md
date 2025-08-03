@@ -3,7 +3,7 @@
 Welcome to the Uber Ride Price Prediction and Insights Dashboard project!
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow.svg)](https://powerbi.microsoft.com)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow.svg)](https://powerbi.microsoft.com) 
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green.svg)](https://pandas.pydata.org)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-orange.svg)](https://www.kaggle.com/datasets/kushsheth/uber-ride-price-prediction)
 
